@@ -9,7 +9,7 @@ Tolga Karaca ⏩ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icon
 
 ## Models
 
-![Screenshot 2022-12-05 093058](https://user-images.githubusercontent.com/92987466/205577167-58488fdd-1fe3-4bb3-8d1e-52053f427d2b.png)
+![Screenshot 2022-12-05 103943](https://user-images.githubusercontent.com/92987466/205580467-f0b3387d-8869-436c-a11f-67f99e3addc3.png)
 
 
 ## GamePlay Video
