@@ -25,5 +25,5 @@ MonoBehaviour:
     GrainDatas:
       m_Keys: 00000000
       m_Values:
-      - offSet: 0.17
+      - offSet: 0.2
         scaleFactor: 0

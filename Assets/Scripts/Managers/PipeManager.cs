@@ -116,7 +116,7 @@ namespace Managers
                 gO.transform.localScale = localScale.x * Vector3.one;
                 gO.transform.position = new Vector3(0, 0,
                     _pipeStartPos + (localScale.z / amountOfPeck) * ((order + 1) * 2 - 1) - 
-                    ((sizeOfAPeck*_grainGoData.offSet)/2)+ j*_grainGoData.offSet);
+                    ((sizeOfAPeck*_grainGoData.offSet)/2)+ j*_grainGoData.offSet*localScale.x);
             }
         }
     }
